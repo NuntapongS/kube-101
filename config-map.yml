@@ -11,6 +11,6 @@ data:
       
       location / {
         default_type application/json;
-        return 200 "Sivaroot Chuncharoen";
+        return 200 "nuntapong siripanyawong";
       }
     }
